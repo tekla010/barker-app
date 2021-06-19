@@ -1,2 +1,2 @@
-console.log("Hello, Yusuf!\n");
+console.log("Hello, Yusuf P2!\n");
 
